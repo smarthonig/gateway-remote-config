@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEC66F8D",
+		"servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 48.95540730,
+		"ref_longitude": 8.24478798,
+		"ref_altitude": 114,
+		"contact_email": "smarthonig@lernbest.de",
+		"description": "ttn-au01" 
+	}
+}
